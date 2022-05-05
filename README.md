@@ -1,3 +1,3 @@
 # Arbitrage Traiding Bot on Ethereum
 
-On-chain smart contracts leverage `falsh loan` for `arbitrage`.
+Ethereum smart contract leverage `falsh loan` for `arbitrage`.
