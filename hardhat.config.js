@@ -23,7 +23,7 @@ module.exports = {
     },
     hardhat: {
       forking: { // mainnet fork
-        url: `https://eth-mainnet.alchemyapi.io/v2/${process.env.ALECHEMY_MAINNET}`,
+        url: `https://eth-mainnet.alchemyapi.io/v2/${process.env.ALECHEMY_MAINNET_KEY}`,
       }
     },
     mainnet: {
